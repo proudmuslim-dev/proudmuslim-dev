@@ -1,15 +1,13 @@
 <div align="center">
 
 # Proudmuslim
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-comcast.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-
 </div>
 
 ## About
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=proudmuslim-dev&count_private=true&show_icons=true&theme=gotham)
+Hi! I'm Proudmuslim ("Proud" for short), a 15 year old just starting out on GitHub. Anything I find noteworthy or am proud of on this platform will be found here in the future.
+
+![Proudmuslim's github stats](https://github-readme-stats.vercel.app/api?username=proudmuslim-dev&count_private=true&show_icons=true&theme=gotham)
 
 ### Languages 
 
