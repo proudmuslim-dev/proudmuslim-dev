@@ -5,7 +5,7 @@
 
 ## About
 
-Hi! I'm Proudmuslim ("Proud" for short), a 15 year old just starting out on GitHub. Anything I find noteworthy or am proud of on this platform will be found here in the future.
+Hi! I'm Proudmuslim ("Proud" for short), a 16 year old just starting out on GitHub. Anything I find noteworthy or am proud of on this platform will be found here in the future.
 
 ![Proudmuslim's github stats](https://github-readme-stats.vercel.app/api?username=proudmuslim-dev&count_private=true&show_icons=true&theme=gotham)
 
