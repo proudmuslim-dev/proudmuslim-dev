@@ -19,3 +19,9 @@ Hi! I'm Proudmuslim ("Proud" for short), a 16 year old just starting out on GitH
 
 #### Currently Learning
 [![forthebadge](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
+
+
+### Contact
+
+* Discord: Proudmuslim#2900
+* Matrix: proudmuslim-dev:matrix.org
