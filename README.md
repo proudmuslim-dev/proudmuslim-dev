@@ -24,4 +24,4 @@ Hi! I'm Proudmuslim ("Proud" for short), a 16 year old just starting out on GitH
 ### Contact
 
 * Discord: Proudmuslim#2900
-* Matrix: proudmuslim-dev:matrix.org
+* Matrix: @proudmuslim-dev:matrix.org
