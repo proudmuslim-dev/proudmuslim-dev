@@ -20,6 +20,10 @@ Hi! I'm Proudmuslim ("Proud" for short), a 16 year old just starting out on GitH
 #### Currently Learning
 [![forthebadge](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
 
+[![forthebadge](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
+
+[![forthebadge](https://img.shields.io/badge/PureScript-000000?style=for-the-badge&logo=PureScript&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
+
 
 ### Contact
 
