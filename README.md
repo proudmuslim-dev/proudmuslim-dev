@@ -10,10 +10,10 @@
 ### Operating Systems
 
 [![](https://img.shields.io/badge/-Qubes%20OS-3874d8?style=for-the-badge&logo=qubesos&logoColor=white)](https://qubes-os.org)
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
+[![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
+[![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
+[![](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)](https://openwrt.org)
 
 <!-- May add an applications section later -->
 <!-- [![](https://img.shields.io/badge/-KeePassXC-6cac4d?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org) -->
