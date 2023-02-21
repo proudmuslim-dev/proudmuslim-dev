@@ -38,4 +38,4 @@
 ## Contact
 
 * Discord: Proudmuslim#2900
-* Matrix: @proudmuslim-dev:matrix.org
+* Matrix: @proudmuslim:they-are-after.me
