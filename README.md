@@ -37,5 +37,4 @@
 
 ## Contact
 
-* Discord: Proudmuslim#8912
 * Matrix: @proudmuslim:they-are-after.me
