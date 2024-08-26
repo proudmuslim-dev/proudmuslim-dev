@@ -4,7 +4,7 @@
 
 </div>
 
-18 year old developer based in California.
+19 year old developer based in California.
 
 ![Proudmuslim's github stats](https://github-readme-stats.vercel.app/api?username=proudmuslim-dev&count_private=true&show_icons=true&theme=gotham)
 
